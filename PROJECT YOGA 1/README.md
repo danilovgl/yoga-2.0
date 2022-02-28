@@ -5,7 +5,7 @@
 
 
 
-<img src="./assents/print.png.png" alt="print-project">
+<img src="./assents/print.png.png" widht="150px" alt="print-project">
 
 >Resultado do Projeto Yoga.
 ### Ajustes e melhorias
