@@ -22,7 +22,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="#">
+      <a href="https://www.linkedin.com/in/danilo-vieira-10515123a/">
         <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Danilo Vieira"/><br>
         <sub>
           <b>Danilo Vieira</b>
